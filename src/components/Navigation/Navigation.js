@@ -1,11 +1,12 @@
+import { Link } from "react-router-dom";
 const Navigation = () => {
     return (
         <header>
             <div id="blue-squre"></div>
             <nav>
-                <a href="#portfolio">PORTFOLIO</a>
-                <a href="#about">ABOUT</a>
-                <a href="#contact">CONTACT</a>
+                <Link to="/">HOME</Link>
+                <Link to="/about">ABOUT</Link>
+                <Link to="/contact">CONTACT</Link>
             </nav>
         </header>
     )
