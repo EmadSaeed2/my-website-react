@@ -6,13 +6,13 @@ const Contact = () => {
             </div>
             <form action="#">
                 <h1 className="form-title">Send me a message</h1>
-                <label for="name">Name</label>
+                <label htmlFor="name">Name</label>
                 <input id="name" type="text" />
-                <label for="email">E-mail</label>
+                <label htmlFor="email">E-mail</label>
                 <input id="email" type="email" />
-                <label for="subject">Subject</label>
+                <label htmlFor="subject">Subject</label>
                 <input id="subject" type="text" />
-                <label for="message">Message</label>
+                <label htmlFor="message">Message</label>
                 <textarea name="message" id="" cols="30" rows="10"></textarea>
                 <button type="submit">Send</button>
             </form>

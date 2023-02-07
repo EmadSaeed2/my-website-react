@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "title": "Project One",
+            "img_link": "pages/project-01.html",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
+        },
+        {
+            "title": "Project Two",
+            "img_link": "pages/project-02.html",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
+        },
+        {
+            "title": "Project Three",
+            "img_link": "pages/project-03.html",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
+        },
+        {
+            "title": "Project Four",
+            "img_link": "pages/project-04.html",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
+        },
+        {
+            "title": "Project Five",
+            "img_link": "pages/project-05.html",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
+        },
+        {
+            "title": "Project Six",
+            "img_link": "pages/project-06.html",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
+        }
+    ]
+}
