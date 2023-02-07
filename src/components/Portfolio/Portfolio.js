@@ -2,10 +2,14 @@ import Project from "./Project/Project"
 import data from "../../data.json"
 
 const Portfolio = () => {
-    console.log(data.projects)
+    const projects = data.projects;
     return (
         <section id="portfolio">
-            <Project />
+            {projects.map((project, index) => {
+                return (
+                    <Project key={index} title={project.title} imgLink={project.imgLink} description={project.description} />
+                )
+            })}
         </section>
     )
 }

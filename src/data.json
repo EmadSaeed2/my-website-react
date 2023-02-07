@@ -2,32 +2,38 @@
     "projects": [
         {
             "title": "Project One",
-            "img_link": "pages/project-01.html",
+            "imgLink": "images/furniture-01.jpg",
+            "pageLink": "pages/project-01.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
             "title": "Project Two",
-            "img_link": "pages/project-02.html",
+            "imgLink": "images/furniture-02.jpg",
+            "pageLink": "pages/project-02.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
             "title": "Project Three",
-            "img_link": "pages/project-03.html",
+            "imgLink": "images/furniture-03.jpg",
+            "pageLink": "pages/project-03.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
             "title": "Project Four",
-            "img_link": "pages/project-04.html",
+            "imgLink": "images/furniture-04.jpg",
+            "pageLink": "pages/project-04.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
             "title": "Project Five",
-            "img_link": "pages/project-05.html",
+            "imgLink": "images/furniture-05.jpg",
+            "pageLink": "pages/project-05.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
             "title": "Project Six",
-            "img_link": "pages/project-06.html",
+            "imgLink": "images/furniture-06.jpg",
+            "pageLink": "pages/project-06.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         }
     ]
