@@ -1,39 +1,45 @@
 {
     "projects": [
         {
-            "title": "Project One",
-            "imgLink": "images/furniture-01.jpg",
-            "pageLink": "pages/project-01.html",
+            "title": "Places Itinerary",
+            "imgLink": "images/project-01.jpg",
+            "projectLink": "https://places.itinerary.art-media.uk/",
+            "gitHubLink": "https://github.com/EmadSaeed2/places-itinerary",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
-            "title": "Project Two",
-            "imgLink": "images/furniture-02.jpg",
-            "pageLink": "pages/project-02.html",
+            "title": "Coding Quiz App",
+            "imgLink": "images/project-02.jpg",
+            "projectLink": "https://github.com/EmadSaeed2/coding-quiz",
+            "gitHubLink": "https://emadsaeed2.github.io/coding-quiz/index.html",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
-            "title": "Project Three",
-            "imgLink": "images/furniture-03.jpg",
-            "pageLink": "pages/project-03.html",
+            "title": "My Weather App",
+            "imgLink": "images/project-03.jpg",
+            "projectLink": "https://emadsaeed2.github.io/my-weather-app",
+            "gitHubLink": "https://github.com/EmadSaeed2/my-weather-app",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
-            "title": "Project Four",
-            "imgLink": "images/furniture-04.jpg",
-            "pageLink": "pages/project-04.html",
+            "title": "Password Generator",
+            "imgLink": "images/project-04.jpg",
+            "projectLink": "https://emadsaeed2.github.io/password-generator/",
+            "gitHubLink": "https://github.com/EmadSaeed2/password-generator",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
-            "title": "Project Five",
-            "imgLink": "images/furniture-05.jpg",
-            "pageLink": "pages/project-05.html",
+            "title": "Team Webpage Generator",
+            "imgLink": "images/project-05.jpg",
+            "projectLink": "https://emadsaeed2.github.io/webpage-generator/",
+            "gitHubLink": "https://github.com/EmadSaeed2/webpage-generator",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         },
         {
-            "title": "Project Six",
-            "imgLink": "images/furniture-06.jpg",
-            "pageLink": "pages/project-06.html",
+            "title": "Day-Planner App",
+            "imgLink": "images/project-06.jpg",
+            "projectLink": "https://emadsaeed2.github.io/day-planner-app/",
+            "gitHubLink": "https://github.com/EmadSaeed2/day-planner-app",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, delectus fuga saepe iste quis, et deleniti nihil facilis laudantium temporibus sequi cupiditate ab, nisi fugit doloribus reprehenderit! Suscipit, asperiores atque."
         }
     ]
