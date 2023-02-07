@@ -107,7 +107,7 @@ header nav a:hover {
   position: absolute;
   left: 0;
   bottom: 0;
-  height: 140px;
+  height: 60px;
   width: 100%;
   padding: 20px;
 }
@@ -133,21 +133,59 @@ header nav a:hover {
   margin-bottom: 10px;
 }
 
+#about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  height: calc(100vh - 150px);
+}
+
+#about .links li {
+  margin-top: 10px;
+}
+
+#about h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 #about p {
   margin: 30px auto;
   padding: 10px 40px;
   text-align: justify;
 }
 
+.about-main {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.about-main h3 {
+  margin-top: 30px;
+  width: 50%;
+}
+
+/* .about-main ul {
+  list-style-type: square;
+}
+
+.about-main ul li {
+  display: list-item;
+  list-style-type: square;
+  color: red;
+} */
+
 /* contact */
 
-#contact,
-#about {
+#contact {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 50px 0;
+  margin-bottom: 50px;
 }
+
 
 #contact form {
   display: flex;
@@ -257,6 +295,11 @@ footer p {
   /* portfolio */
   #portfolio {
     grid-template-columns: 1fr;
+  }
+
+  .about-main h3 {
+    margin-top: 30px;
+    width: 90%;
   }
 
   /* contact */
